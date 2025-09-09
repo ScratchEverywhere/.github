@@ -2,6 +2,8 @@
   <img src="https://github.com/ScratchEverywhere/ScratchEverywhere/blob/main/gfx/menu/logo.png?raw=true" alt="Scratch Everywhere! logo" />
 </p>
 
+---
+
 This GitHub organization is dedicated to the Scratch Everywhere! project and
 other supporting software. You can find the main
 [Scratch Everywhere! repo here](https://github.com/ScratchEverywhere/ScratchEverywhere).
